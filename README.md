@@ -1,6 +1,8 @@
 # GNR602-Course-Project
 Model to Detect Changes in Multi-Temporal Satellite Images Using PCA and K-means Clustering Techniques
 
+Structure of directory folder is as follows
+
 ``` bash
 Directory
 ├── README.md
@@ -20,6 +22,9 @@ Directory
 └── Output Image
     └── changed.jpg
 ```
+
+#Follow these steps to run the model:
+1. 
 
 # Principal Component Analysis (PCA) for Multi-Temporal Satellite Image Change Detection
 
