@@ -23,8 +23,12 @@ Directory
     └── changed.jpg
 ```
 
-#Follow these steps to run the model:
-1. 
+# Follow these steps to run the model:
+1. Run the simple.exe file located in the folder build -> exe.win-amd64-3.9 -> simple.exe
+2. GUI will be opened. Select the input images located in the floder Input Image
+3. Select the desired Output Folder. 
+4. Select Ouput file name button and give desired output file name in the pop-up box opened.
+5. Select Start Decoding button, Output will pop-up in 2 minutes approximately. 
 
 # Principal Component Analysis (PCA) for Multi-Temporal Satellite Image Change Detection
 
