@@ -6,9 +6,9 @@ Structure of directory folder is as follows
 ``` bash
 Directory
 ├── README.md
-├── LICENSE
-├── requirements.txt
+├── GNR602_presentation.pptx
 ├── setup.py
+├── main.py
 ├── build
 │   └──exe.win-amd64-3.9
 │      ├── frozen_application_license.txt
@@ -18,7 +18,8 @@ Directory
 │      └── lib
 ├── Input Image
 │   ├── Andasol_09051987_md.jpg
-│   └── Andasol_09122013_md.jpg
+│   ├── Andasol_09051987_md.jpg
+│   └── Other_Input_Images
 └── Output Image
     └── changed.jpg
 ```
